@@ -10,7 +10,7 @@
 <title>상품 목록확인</title>
 </head>
 <body>
-	<table border ="1px solid black">
+	<table border =1>
 		<tr>
 			<th>상품 번호</th>
 			<th>상품명</th>
